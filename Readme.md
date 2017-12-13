@@ -171,7 +171,7 @@ _rendered as italicized text_
 ![Alt text](/img/test/imgName.jpg "Optional title")
 ```
 
-![testImg](./img/test/imgName.jpg)
+![testImg](/img/test/imgName.jpg)
 
 참조문서
 --------
