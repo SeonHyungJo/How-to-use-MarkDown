@@ -1,4 +1,4 @@
-나만의 MarkDown(마크다운) 사용법(ver0.4)
+나만의 MarkDown(마크다운) 사용법(ver0.5)
 ========================================
 
 MarkDown을 처음 사용기
@@ -170,6 +170,10 @@ _rendered as italicized text_
 ![Alt text](/img/test/imgName.jpg)
 ![Alt text](/img/test/imgName.jpg "Optional title")
 ```
+
+### 추후 추가
+
+-	테이블
 
 참조문서
 --------
