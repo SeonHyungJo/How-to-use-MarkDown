@@ -1,5 +1,5 @@
-나만의 MarkDown(마크다운) 사용법(ver0.29)
-=========================================
+나만의 MarkDown(마크다운) 사용법(ver0.4)
+========================================
 
 MarkDown을 처음 사용기
 ----------------------
@@ -163,6 +163,15 @@ _rendered as italicized text_
 -	**rendered as bold text**
 -	*rendered as italicized text*
 -	~~Strike through this text.~~
+
+### 이미지
+
+```
+![Alt text](/img/test/imgName.jpg)
+![Alt text](/img/test/imgName.jpg "Optional title")
+```
+
+![testImg](./img/test/imgName.jpg)
 
 참조문서
 --------
