@@ -171,6 +171,8 @@ _rendered as italicized text_
 ![Alt text](/img/test/imgName.jpg)
 ![Alt text](/img/test/imgName.jpg "Optional title")
 ```
+![테스트 이미지](https://github.com/SeonHyungJo/How_to_use_MarkDown/blob/master/img/test/testName.jpg "Optional title")
+
 ---
 ### 테이블
  - 테이블은 필요하더라...
